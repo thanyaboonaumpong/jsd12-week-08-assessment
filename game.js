@@ -4,5 +4,5 @@ const hatChar   = ' ^ '
 const holeChar  = ' O '
 const fieldChat = ' ▒ '
 const pathChat  = ' ▦ '
-const fallChat  = '◫'
+const fallChat  = ' ◫ '
 
